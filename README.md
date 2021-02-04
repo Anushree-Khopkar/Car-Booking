@@ -9,7 +9,7 @@ Customer and order tracking will have a major part to play in analyzing and inve
 3. Create folder in C:\xampp\htdocs and extract files in folder.
 4. Click on index1.php file.
 
-#Tools used
+# Tools used
 * Web-Server - XAMPP
 * Programming Language - PHP
 * Framework - Bootstrap
