@@ -16,7 +16,7 @@
 2. Download and install XAMPP.
 3. Create folder in C:\xampp\htdocs and extract files in folder.
 4. Click on index1.php file.
-
+ 
 # Screen Capture
 
 * Following are some screen captures of website.
